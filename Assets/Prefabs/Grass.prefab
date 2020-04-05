@@ -65,8 +65,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2cc7e3bc8d61094d9c9d30bc69f4a68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fire: {fileID: 1517534320277744, guid: 7167955d43b17a544983392ca0ed2fc7, type: 2}
-  delay: 15
+  Fire: {fileID: 1326516003183936, guid: 12dc6cc731dc51a4d8f4c4f48292c269, type: 2}
+  CurrentTile: {fileID: 0}
+  Delay: 5
 --- !u!212 &212377170831612364
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -66,7 +66,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Fire: {fileID: 1517534320277744, guid: 7167955d43b17a544983392ca0ed2fc7, type: 2}
-  delay: 10
+  CurrentTile: {fileID: 0}
+  Delay: 20
 --- !u!212 &212916246254371066
 SpriteRenderer:
   m_ObjectHideFlags: 1
